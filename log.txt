@@ -1,0 +1,7 @@
+>>> 05.01.21 02:56:06 Added to storage 'print1' in amount 4 items.
+>>> 05.01.21 02:56:06 Added to storage 'print2' in amount 3 items.
+>>> 05.01.21 02:56:06 Added to storage 'scan1' in amount 3 items.
+>>> 05.01.21 02:56:06 Added to storage 'tel1' in amount 6 items.
+>>> 05.01.21 02:56:06 Added to storage 'tel2' in amount 2 items.
+>>> 05.01.21 02:56:06 Added to storage 'nb1' in amount 5 items.
+<<<05.01.21 02:56:06 Moved from storage 'tel1' in amount 4 items.
